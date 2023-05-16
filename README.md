@@ -1,5 +1,4 @@
 # Data-Manipulation-and-Reporting-with-Power-BI
-
 ## DESCRIPTION
 
 Zomato is a restaurant aggregation and meal delivery service based in India. It is currently operating in several countries across the world. Zomato provides thorough information about numerous eateries as well as consumer reviews. Zomato's owners aim to find hidden irregularities in their company's data. The ultimate goal of this project is to examine the data in such a way that they can accurately assess their business performance.
@@ -57,3 +56,4 @@ c. Average rating
 d. Cuisine count
 
 3) Create a new column in the Country Code table and name it “Continent” and create the values using the below-mentioned convention
+
